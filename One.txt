@@ -1,0 +1,10 @@
+A dummy document.
+
+
+Some text here
+
+
+and here
+
+
+that's all.
