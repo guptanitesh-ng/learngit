@@ -1,5 +1,6 @@
 Had to create another document
 
+clever changes o avoid conflicts on rebasing attempt - master.
 
 
 will help in studying scenarios
