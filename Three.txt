@@ -1,3 +1,7 @@
 Yet another file
 
 yet another attempt
+
+this change is for rebase.
+
+Let's checkout how squashing works.
